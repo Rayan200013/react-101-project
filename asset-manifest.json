@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Rayan200013/react-101-project/static/css/main.e6c13ad2.css",
+    "main.js": "/Rayan200013/react-101-project/static/js/main.f9c84777.js",
+    "static/js/787.6ae90860.chunk.js": "/Rayan200013/react-101-project/static/js/787.6ae90860.chunk.js",
+    "index.html": "/Rayan200013/react-101-project/index.html",
+    "main.e6c13ad2.css.map": "/Rayan200013/react-101-project/static/css/main.e6c13ad2.css.map",
+    "main.f9c84777.js.map": "/Rayan200013/react-101-project/static/js/main.f9c84777.js.map",
+    "787.6ae90860.chunk.js.map": "/Rayan200013/react-101-project/static/js/787.6ae90860.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.f9c84777.js"
+  ]
+}
